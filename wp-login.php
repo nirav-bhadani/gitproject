@@ -1,5 +1,5 @@
 <?php
-echo "Hii";
+echo "Hello";
 /**
  * WordPress User Page
  *
